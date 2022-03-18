@@ -3,3 +3,8 @@ ping:
     methods: [get]
     path: ping
     presenter: ping
+
+# category:
+#     type: resource
+#     resource: category
+#     path: category
